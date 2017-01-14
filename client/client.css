@@ -1,0 +1,18 @@
+body {
+    margin: 0;
+}
+
+canvas{
+  display:block;
+}
+
+.header {
+    height: 80px;
+    width: 100%;
+    background: #FFA333;
+}
+
+#title {
+    margin: 0;
+    color: #FFFFFF;
+}
